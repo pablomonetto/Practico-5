@@ -1,0 +1,10 @@
+1;Pan;Pan frances x kg;100
+2;Agua;Bot agua 2L;200
+3;Coca;Coca retornable;530.25f
+4;Yerba;Playadito x 1kg;800.50f
+5;Detergente;Magistral 500cc;1249.99f
+6;Azucar;Refinada 1kg;250
+7;Leche;Entera Caja 1L;525.5f
+8;Oregano;Bolsa 50g;120
+9;Molida especial;Carne molida x kg;1850.37f
+10;Desodorante;Aerosol x330ml;852.63f
